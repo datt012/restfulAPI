@@ -1,1 +1,1 @@
-restfulAPI using NodeJS, mongoDB
+restfulAPI sensor using NodeJS, mongoDB
